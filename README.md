@@ -1,13 +1,12 @@
 # Soccer Training with AI
 Final project for the Building AI course
 ## Summary
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+The project is about collecting data from best players in the world about their lifestyle, exercises, and nutritious regime.
 ## Background
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Getting rid of Training Schedules as it's a very time consuming process as it effects our daily routine and ruin it sometimes.
+* Making different routines to be away from boring habits and make sure to continue the same level of fitness everyday.
 ## How is it used?
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 Images will make your README look nice!
