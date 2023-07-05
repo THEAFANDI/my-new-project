@@ -1,4 +1,4 @@
-# Soccer Training with AI
+# AIS Soccer Training with AI
 Final project for the Building AI course
 ## Summary
 The project is about collecting data from best players in the world about their lifestyle, exercises, and nutritious regime.
@@ -8,40 +8,14 @@ This is how you make a list, if you need one:
 * Getting rid of Training Schedules as it's a very time consuming process as it effects our daily routine and ruin it sometimes.
 * Making different routines to be away from boring habits and make sure to continue the same level of fitness everyday.
 ## How is it used?
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-This is how you create code examples:
-
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-   totPop = sum(pop)
-   totFish = sum(fishers)
-   # write your solution here
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-main()
-
+Everyday or week or month I waste a lot of my time scheduling my SON daily training and lifestyle routine. So I decided to create a solution that could be used by many teenagers and prepare them for the professional competition.
+<img src="[https://media.istockphoto.com/id/1270049179/photo/boys-training-unit-on-soccer-field-young-footballers-practice-dribbling-skills-on-the-grass.jpg?s=612x612&w=0&k=20&c=He29cK8Vhab9ax7kft6beF8H-y6AmpjJwLaCZ3FwusU=)" width="300">
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+My data is generated from best players daily routines were I do search and find such routines and apply it on teenagers with a little twisy to match portions with age difference.
 ## Challenges
-What does your project not solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+My project will always miss the psychological aspect for the teenagers as its totally a different mindset for that I have to collaborate withspecial teenagers sychitrests to take a professional advice on how to deal with day-to-day issues.
 ## What next?
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+I think being part of the academic body of famous soccer clubs will make my projet grow and spark very fast as it will find the perfect soil to prosperity.
 ## Acknowledgments
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* My SON
+* [training teenager]([https://media.istockphoto.com/id/1270049179/photo/boys-training-unit-on-soccer-field-young-footballers-practice-dribbling-skills-on-the-grass.jpg?s=612x612&w=0&k=20&c=He29cK8Vhab9ax7kft6beF8H-y6AmpjJwLaCZ3FwusU=) / © 2023 iStockphoto LP. The iStock design is a trademark of iStockphoto LP. Browse millions of high-quality stock photos, illustrations, and videos.
